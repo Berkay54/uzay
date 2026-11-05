@@ -1,0 +1,5 @@
+node_modules/
+dist/
+public/frames-hd/
+*.mp4
+.DS_Store
